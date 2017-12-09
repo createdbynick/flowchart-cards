@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "71E85C1A-249C-4AB2-86FA-75FD7FDB72CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 220,
+    "x": 2.273736754432321e-13,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5805F729-4219-4DF2-B12E-FB8B7147F683"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A5456FE-98C3-49A3-9F3F-1723108E5108"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D09B26C-C666-406B-94BB-B2CC1F3EF194"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83429A8B-CAD4-4FBF-BBFF-A232A91C00C6"
+    }
+  ],
+  "name": "Layouts / Layout 4.1                                                                                                                                   ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

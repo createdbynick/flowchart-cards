@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "0CA7A2E8-5301-4C4C-A43A-FDB199699728",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 220,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "40F9FEFB-2EFE-4EBA-BBE3-92A20F5E61F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "869301BD-0CFA-469C-9C73-AC517D4D23C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA4462CD-805B-43D5-A687-33915BCC42B6"
+    },
+    {
+      "class": "group",
+      "id": "ECE92095-B33D-438E-B21A-322AB33A1B70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "122243B6-5E03-4570-975B-52C7BDFCA49C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07177C62-748A-441D-89D6-29437B6ABD11"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCC4BB87-E744-49D3-A037-C5A6AEA64AA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "687D2BBF-C8DD-4BC2-B480-FE6C17A8C283"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AA66187-2142-4E1F-824B-0C3A09105252"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1281E90-2325-4DCE-A8A2-73F2ACCAC6DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6235D3B2-9F04-478D-AD33-245A7D5E7AD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1206F5D-2DD5-4196-8751-397F7A22B5F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "931026F4-5082-4EAE-86A0-E0663363DA64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B28860B-8574-4EEA-B0CC-5E03538B1ADE"
+    },
+    {
+      "class": "group",
+      "id": "623FC9FB-5DB1-4666-B700-FE63DA3DD81C"
+    }
+  ],
+  "name": "Pages / Settings",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
