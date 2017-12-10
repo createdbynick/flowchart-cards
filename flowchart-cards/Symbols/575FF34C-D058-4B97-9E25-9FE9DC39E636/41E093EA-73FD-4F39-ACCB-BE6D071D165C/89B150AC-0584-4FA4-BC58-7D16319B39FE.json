@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 2,
-    "width": 66,
+    "width": 40,
     "x": 0,
     "y": 0
   },
@@ -45,9 +45,9 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{1.0455643332779458, 0.5}",
+        "curveFrom": "{1.7251811499086105, 0.5}",
         "curveMode": 1,
-        "curveTo": "{1.0455643332779458, 0.5}",
+        "curveTo": "{1.7251811499086105, 0.5}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
         "point": "{0.99999999999999989, 0.5}"
