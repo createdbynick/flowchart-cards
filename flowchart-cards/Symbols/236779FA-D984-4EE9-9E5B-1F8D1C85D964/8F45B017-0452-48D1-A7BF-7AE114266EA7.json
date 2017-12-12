@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "34120111-6512-4B51-AD6B-CEF2178B2D7A",
+  "do_objectID": "8F45B017-0452-48D1-A7BF-7AE114266EA7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2,
-    "width": 44,
-    "x": 6,
-    "y": 4
+    "height": 10,
+    "width": 8,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,13 +24,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "Connectors / Paths / Sad / Horizontal",
+  "name": "Connectors / Sad / Heads / Arrow head left",
   "nameIsFixed": false,
-  "resizingConstraint": 18,
+  "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "14241305-2107-437B-9410-2EDDB4981A15",
+  "symbolID": "9AFE1B45-2196-41BE-B6DC-F7A30618E4EE",
   "verticalSpacing": 0
 }

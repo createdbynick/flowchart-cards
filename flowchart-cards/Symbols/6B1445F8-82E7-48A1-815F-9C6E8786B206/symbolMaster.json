@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 138,
+  "changeIdentifier": 320,
   "do_objectID": "6B1445F8-82E7-48A1-815F-9C6E8786B206",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,12 +22,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 10,
-    "width": 48,
+    "width": 50,
     "x": 420,
     "y": 1069
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,12 +49,12 @@
     },
     {
       "class": "symbolInstance",
-      "id": "73D7A1D0-58CB-4A6B-B6B7-A12EB4110934"
+      "id": "34C72CDE-9660-4162-8008-BD3D33A5387F"
     }
   ],
   "name": "Connectors / Default / Horizontal arrow left",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

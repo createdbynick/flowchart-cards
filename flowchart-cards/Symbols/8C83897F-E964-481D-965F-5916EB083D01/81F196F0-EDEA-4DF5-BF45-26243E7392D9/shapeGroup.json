@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "8DC5CF94-EEBE-490F-9F9B-CCA83591B766",
+  "do_objectID": "81F196F0-EDEA-4DF5-BF45-26243E7392D9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,11 +17,11 @@
     "height": 8,
     "width": 12,
     "x": -2,
-    "y": 2
+    "y": 1
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
@@ -29,14 +29,14 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "3CF0DF71-B9AD-45A5-8546-C6A24D3BE9CB"
+      "id": "3627C98B-152B-461D-976C-9C959FE59D61"
     }
   ],
-  "name": "Arrow head left",
+  "name": "Arrow head right",
   "nameIsFixed": true,
   "resizingConstraint": 36,
   "resizingType": 0,
-  "rotation": 270,
+  "rotation": 90,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

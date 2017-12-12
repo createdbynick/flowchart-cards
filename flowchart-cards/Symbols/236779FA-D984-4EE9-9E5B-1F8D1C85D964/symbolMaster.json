@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 179,
+  "changeIdentifier": 204,
   "do_objectID": "236779FA-D984-4EE9-9E5B-1F8D1C85D964",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,12 +22,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 10,
-    "width": 48,
+    "width": 50,
     "x": 1932,
     "y": 1067
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -49,12 +49,12 @@
     },
     {
       "class": "symbolInstance",
-      "id": "59A09580-88E5-435A-8F10-DDF4D0BDD629"
+      "id": "8F45B017-0452-48D1-A7BF-7AE114266EA7"
     }
   ],
   "name": "Connectors / Sad / Horizontal arrow left",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

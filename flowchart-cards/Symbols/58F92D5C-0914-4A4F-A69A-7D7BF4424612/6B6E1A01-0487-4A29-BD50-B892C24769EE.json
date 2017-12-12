@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 10,
-    "width": 8,
+    "width": 7.84313725490196,
     "x": 0,
     "y": 0
   },
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Connectors / Happy / Heads / Arrow head left",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

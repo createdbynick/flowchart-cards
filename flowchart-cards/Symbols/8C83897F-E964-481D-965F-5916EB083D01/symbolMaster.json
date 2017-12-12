@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1405,
+  "changeIdentifier": 1412,
   "do_objectID": "8C83897F-E964-481D-965F-5916EB083D01",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
+    "height": 10,
     "width": 8,
     "x": 420,
     "y": 739
@@ -41,11 +41,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8DC5CF94-EEBE-490F-9F9B-CCA83591B766"
+      "id": "81F196F0-EDEA-4DF5-BF45-26243E7392D9"
     }
   ],
   "name": "Connectors / Default / Heads / Arrow head left",
