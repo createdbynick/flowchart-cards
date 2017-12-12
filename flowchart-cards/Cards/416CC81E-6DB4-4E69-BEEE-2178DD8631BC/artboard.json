@@ -37,6 +37,11 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      170,
+      460,
+      750,
+      1040,
+      1330
     ]
   },
   "includeBackgroundColorInExport": true,
