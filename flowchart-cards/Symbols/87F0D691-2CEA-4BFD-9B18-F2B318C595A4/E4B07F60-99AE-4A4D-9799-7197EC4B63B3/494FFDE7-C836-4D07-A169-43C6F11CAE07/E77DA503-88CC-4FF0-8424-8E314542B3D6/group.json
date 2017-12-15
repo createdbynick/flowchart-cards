@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E77DA503-88CC-4FF0-8424-8E314542B3D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 28,
+    "x": 166,
+    "y": 154
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1B7B9122-9702-4C3C-96E2-9F570308CB53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9CFC996-79AB-49B6-8C08-A426BF6FB14A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A00D6C6-88AB-4EE4-ACDF-7C97AD7FC8A0"
+    }
+  ],
+  "name": "Pie chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
