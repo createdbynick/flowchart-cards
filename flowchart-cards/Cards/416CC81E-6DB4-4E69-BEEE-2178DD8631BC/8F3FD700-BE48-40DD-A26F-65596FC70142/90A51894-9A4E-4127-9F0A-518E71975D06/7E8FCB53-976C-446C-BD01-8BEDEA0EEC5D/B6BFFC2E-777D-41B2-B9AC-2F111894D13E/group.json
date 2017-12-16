@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "B6BFFC2E-777D-41B2-B9AC-2F111894D13E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 50,
+    "x": 152,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98DC54BF-C74C-4951-8990-DE2DEA50413C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9208B743-2B74-4688-A7C7-D533AF9BF694"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72A44C20-7312-4B30-A368-BBA88A305D3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09879CBE-ECB1-4F7C-A70E-D67BE726D373"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5731198-D930-4482-AC22-C2B69EA75CF6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29E75C6E-8CFF-487A-B352-9517491DEBC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3769669-8FB4-4F0F-A7B2-65FE0D53D5B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19069FB7-CFD8-4944-9146-486896ACBF5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DD9E909-7F94-4275-96CE-BF79C225488A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7E904C7-F959-4914-AB77-ACA5CBAEDD81"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C8F45EA-B8D3-4CC1-82CD-5CF229B4F717"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E1D44E4-3FF2-455D-9986-DD8612028473"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C85A4E78-4FA7-4F1A-A96A-1A306B084B0A"
+    }
+  ],
+  "name": "Table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

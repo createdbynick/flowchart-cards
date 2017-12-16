@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "29B249D3-ED19-429E-8035-1FD4531BEE51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 28,
+    "x": 25.99999999999977,
+    "y": 98
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "136BC2B5-C1D2-4F61-AF00-CA35464E51CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B25E2963-DABE-460C-9474-22B7E447E47E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9C5C8AF-392B-4394-870A-F25AD952EF70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8FFF1E0E-18E6-4236-B45F-911D3E8B8CA1"
+    }
+  ],
+  "name": "Bar chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

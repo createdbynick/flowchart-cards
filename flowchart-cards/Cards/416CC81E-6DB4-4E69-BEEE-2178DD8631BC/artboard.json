@@ -164,12 +164,12 @@
       "id": "4EDE684E-03AC-4D47-AF99-C7AEF3EB8B23"
     },
     {
-      "class": "symbolInstance",
-      "id": "730E2885-6832-44DE-B4CB-D04C53E80791"
+      "class": "group",
+      "id": "8F3FD700-BE48-40DD-A26F-65596FC70142"
     },
     {
-      "class": "symbolInstance",
-      "id": "C69E1809-E610-434C-BE6D-9522498B6675"
+      "class": "group",
+      "id": "9DC3B718-35E2-46F7-8514-065640B89B40"
     },
     {
       "class": "symbolInstance",
@@ -245,7 +245,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

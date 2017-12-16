@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1380,
+  "changeIdentifier": 1381,
   "do_objectID": "A3986A17-38B0-4149-A3CC-F9D7704C6359",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 8,
     "width": 12,
     "x": 420,
-    "y": 961
+    "y": 959
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -54,7 +54,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

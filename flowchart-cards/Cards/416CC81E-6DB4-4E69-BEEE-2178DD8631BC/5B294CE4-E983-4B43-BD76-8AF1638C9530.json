@@ -30,9 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Pages / Timeline",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

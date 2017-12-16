@@ -30,9 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Connectors / Happy / Heads / Arrow head up",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
