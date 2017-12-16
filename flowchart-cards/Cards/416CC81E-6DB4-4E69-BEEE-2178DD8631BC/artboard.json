@@ -222,6 +222,30 @@
     {
       "class": "symbolInstance",
       "id": "A269F7F5-9F87-4E76-B83F-C4BF9B851F62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76A40D46-9687-43DE-A177-DCAD038852A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DB13795-42B2-4B1B-9914-B7D39D5BF438"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05F3DD6F-2271-444E-BDC8-12DA5C027C70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D65F5D3D-78E8-4C2C-9416-13788BD4DE8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40562AAB-015C-40C0-A3F8-4BBFEF4632CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1172AAE-328A-4C4E-90CD-1528EBF00995"
     }
   ],
   "layout": {
