@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "90A51894-9A4E-4127-9F0A-518E71975D06",
+  "_class": "symbolInstance",
+  "do_objectID": "CB2A99E6-5789-4BD9-AB47-82149D0E289A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,33 +13,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
+    "height": 220,
     "width": 220,
-    "x": 0,
-    "y": 0
+    "x": 60,
+    "y": 1956
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "7E8FCB53-976C-446C-BD01-8BEDEA0EEC5D"
-    }
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 3,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Pages / Dashboard 1                                                                                                       ",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Dashboards / Dashboard 1                                                                                                       ",
-  "nameIsFixed": true,
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "6BB3564A-3063-4279-8570-DC33C76F3D4B",
+  "verticalSpacing": 0
 }

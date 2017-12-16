@@ -274,14 +274,6 @@
     },
     {
       "class": "symbolMaster",
-      "id": "B81E555F-7FB0-4D16-A0B5-E2B8B818AE50"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "6F889999-6A30-430E-BAEC-6F1BF50DEE5E"
-    },
-    {
-      "class": "symbolMaster",
       "id": "77EA9CE3-F1E1-4E21-9154-FA2232F657D1"
     },
     {
@@ -371,6 +363,14 @@
     {
       "class": "symbolMaster",
       "id": "26307F2E-50BE-4D6B-8989-BF7A3BE412E0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B81E555F-7FB0-4D16-A0B5-E2B8B818AE50"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6F889999-6A30-430E-BAEC-6F1BF50DEE5E"
     },
     {
       "class": "symbolMaster",

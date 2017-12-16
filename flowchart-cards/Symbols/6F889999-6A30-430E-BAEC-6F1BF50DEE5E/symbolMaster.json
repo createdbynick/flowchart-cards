@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3835,
+  "changeIdentifier": 3841,
   "do_objectID": "6F889999-6A30-430E-BAEC-6F1BF50DEE5E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 220,
     "width": 220,
-    "x": 2438,
-    "y": 320
+    "x": 2858,
+    "y": 1924
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -52,8 +52,8 @@
       "id": "DEE350AE-F6C8-401A-9084-87BF15F6F59D"
     }
   ],
-  "name": "Dashboards / Dashboard 2                                                                                                    ",
-  "nameIsFixed": false,
+  "name": "Pages / Dashboard 2                                                                                                    ",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

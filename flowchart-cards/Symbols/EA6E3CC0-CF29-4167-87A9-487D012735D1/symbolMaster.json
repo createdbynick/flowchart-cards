@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 385,
+  "changeIdentifier": 458,
   "do_objectID": "EA6E3CC0-CF29-4167-87A9-487D012735D1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
+    "height": 76,
     "width": 10,
     "x": 1932,
-    "y": 1596
+    "y": 1602
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -54,7 +54,7 @@
   ],
   "name": "Connectors / Sad / Vertical arrow up",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
