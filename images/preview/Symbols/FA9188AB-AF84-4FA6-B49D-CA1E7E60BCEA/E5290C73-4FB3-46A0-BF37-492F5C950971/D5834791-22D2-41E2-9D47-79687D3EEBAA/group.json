@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "D5834791-22D2-41E2-9D47-79687D3EEBAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 220,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "607B2265-AE1C-4309-A6FF-6753E22241C9"
+    },
+    {
+      "class": "group",
+      "id": "B90CC53A-645F-4173-B85A-24C338D43550"
+    },
+    {
+      "class": "group",
+      "id": "7C2D2231-1822-4F5C-B1C3-E84737386185"
+    },
+    {
+      "class": "group",
+      "id": "13426150-D8BA-4D45-A03C-897C6BEAF2AA"
+    }
+  ],
+  "name": "Components / Accordian",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

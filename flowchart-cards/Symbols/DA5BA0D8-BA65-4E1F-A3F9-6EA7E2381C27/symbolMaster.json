@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1025,
+  "changeIdentifier": 1029,
   "do_objectID": "DA5BA0D8-BA65-4E1F-A3F9-6EA7E2381C27",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "24906930-48E3-4D7C-8304-B01D6716C50E"
+      "class": "symbolInstance",
+      "id": "8FE96A4B-896E-4524-8207-FC086DD636BD"
     },
     {
-      "class": "shapeGroup",
-      "id": "9150E67D-804D-4B1B-A9F8-DDCC5EAFC4C8"
+      "class": "symbolInstance",
+      "id": "6B3AA6E3-7BA3-4F1E-86B1-B1FEAF7FEAF8"
     }
   ],
   "name": "Connectors / Happy / Elbow circle",

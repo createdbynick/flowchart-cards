@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 818,
+  "changeIdentifier": 835,
   "do_objectID": "65D755B2-573E-409F-BD6F-762309900997",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,19 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "CCC002E4-28FE-4835-9467-BD6063584EAD"
+      "class": "symbolInstance",
+      "id": "B5B605F9-93D0-4460-ABBC-22B63A519511"
     },
     {
-      "class": "shapeGroup",
-      "id": "244AD325-8236-487D-9171-A7F9A599F79D"
+      "class": "symbolInstance",
+      "id": "CBCB27BB-3026-4D6D-A219-9C3FDFDBC28D"
     },
     {
-      "class": "shapeGroup",
-      "id": "3FE303D5-8E57-440C-9FB0-80CC78E60721"
+      "class": "symbolInstance",
+      "id": "FC22070F-17E6-4920-9E21-03BF0DF61750"
     }
   ],
   "name": "Connectors / Default / Diagonal horizontal circles",

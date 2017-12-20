@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1027,
+  "changeIdentifier": 1033,
   "do_objectID": "D8824D18-B7B3-48E7-AAE5-A68189DDC08C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "743AC804-ABEE-4C4E-B790-EB7F794E1B7D"
+      "class": "symbolInstance",
+      "id": "C1A17961-0BEF-4112-B265-5939D667B55A"
     },
     {
-      "class": "shapeGroup",
-      "id": "3FFF1428-8C94-446E-AD3C-8C03F12CCDEB"
+      "class": "symbolInstance",
+      "id": "03BB257E-1FDA-4ACE-831B-FD5C44361DA2"
     }
   ],
   "name": "Connectors / Default / Elbow circle",

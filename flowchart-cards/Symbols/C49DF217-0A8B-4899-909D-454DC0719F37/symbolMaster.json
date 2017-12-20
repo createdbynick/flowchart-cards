@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 263,
+  "changeIdentifier": 273,
   "do_objectID": "C49DF217-0A8B-4899-909D-454DC0719F37",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,16 +44,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "82F2C263-3D25-4680-9949-D42D24EFA82D"
+      "class": "symbolInstance",
+      "id": "D08F510C-7D2F-42C9-B8B9-A8BAA5F727C1"
     },
     {
-      "class": "shapeGroup",
-      "id": "06C38097-6F2A-4005-99B7-D14839BB62C0"
+      "class": "symbolInstance",
+      "id": "8BB2A9B9-4B69-41C0-9220-447026FA3A7E"
     },
     {
-      "class": "shapeGroup",
-      "id": "9A9E0E4D-D0E9-4F8D-B3F1-11C76D0BA15E"
+      "class": "symbolInstance",
+      "id": "08A71FFB-6A59-43EF-96B1-973699DA3FF5"
     }
   ],
   "name": "Connectors / Sad / Diagonal horizontal circles",

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C8B5379F-8F74-4B84-9952-42C5D690C681",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 122,
+    "x": 514,
+    "y": 257
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "95875584-DB92-43E8-8685-725F5F499AB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A996E64-69CA-407C-B281-C08C20B98E65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE2CCAAD-D8ED-44E4-B5DA-F277151C7E51"
+    }
+  ],
+  "name": "Connectors / Sad / Diagonal horizontal arrows",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 270,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

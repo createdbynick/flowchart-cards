@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1018,
+  "changeIdentifier": 1022,
   "do_objectID": "F95403ED-57A8-4581-9506-4984A5BE78FB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "93A8DE4A-FA0A-4A55-AF90-EEC9596DEE7F"
+      "class": "symbolInstance",
+      "id": "EB5B22E0-A9D0-4864-8AFD-A3DB81D618DF"
     },
     {
-      "class": "shapeGroup",
-      "id": "95AD50AF-A970-4664-AFBF-75124DD8E83B"
+      "class": "symbolInstance",
+      "id": "9D522A47-C019-407C-96FA-EEC127618B10"
     }
   ],
   "name": "Connectors / Sad / Elbow circle",

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "6C0C4297-57C3-4FB7-8F6A-4E2E0A127A15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 122,
+    "x": 514,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F4E70F0D-489F-4F7B-8942-CC2429C5D455"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DD9C32C-DD84-45EF-9989-6C3AACB42E7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50EF7550-1610-4F3C-82A8-ACEC57DB0437"
+    }
+  ],
+  "name": "Connectors / Happy / Diagonal horizontal arrows",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

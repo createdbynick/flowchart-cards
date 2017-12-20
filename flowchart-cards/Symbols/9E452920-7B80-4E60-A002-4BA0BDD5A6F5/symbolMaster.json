@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1660,
+  "changeIdentifier": 1670,
   "do_objectID": "9E452920-7B80-4E60-A002-4BA0BDD5A6F5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,16 +44,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "F1A1949C-64F7-4491-B759-2CCA65AAAB4E"
+      "class": "symbolInstance",
+      "id": "8D692A58-4B6B-47B6-8398-3C1B77F54C67"
     },
     {
-      "class": "shapeGroup",
-      "id": "F77716A4-64A3-4F82-AB8A-578246DFCB8E"
+      "class": "symbolInstance",
+      "id": "DCFCA1B2-30CE-43AE-B262-7F55A4DE4D65"
     },
     {
-      "class": "shapeGroup",
-      "id": "6596A389-BF6B-49A3-B840-17F1CA78A34F"
+      "class": "symbolInstance",
+      "id": "816F9CBC-D073-4F48-9AE4-6189FB18FA04"
     }
   ],
   "name": "Connectors / Happy / Diagonal horizontal circles",
