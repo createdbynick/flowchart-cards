@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 238,
+  "changeIdentifier": 259,
   "do_objectID": "F03BF8DD-74EC-465B-B2E9-31D600DF2BB6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 10,
     "width": 50,
     "x": 420,
-    "y": 1287
+    "y": 2472
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -52,7 +52,7 @@
       "id": "4471655E-1ABF-4DEA-8EBA-D290651E3D86"
     }
   ],
-  "name": "Connectors / Default / Horizontal arrow right",
+  "name": "Connectors / Default / Horizontal arrow right →",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

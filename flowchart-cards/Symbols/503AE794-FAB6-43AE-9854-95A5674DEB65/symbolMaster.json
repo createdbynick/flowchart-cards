@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 939,
+  "changeIdentifier": 958,
   "do_objectID": "503AE794-FAB6-43AE-9854-95A5674DEB65",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 76,
     "width": 296,
     "x": 1932,
-    "y": 0
+    "y": 176
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -56,8 +56,8 @@
       "id": "8CBB99D8-167B-4708-AC67-31F1BAEF4726"
     }
   ],
-  "name": "Connectors / Sad / Diagonal horizontal arrows",
-  "nameIsFixed": false,
+  "name": "Connectors / Sad / Diagonal horizontal arrows└┐",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

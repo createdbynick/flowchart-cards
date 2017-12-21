@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 206,
+  "changeIdentifier": 223,
   "do_objectID": "236779FA-D984-4EE9-9E5B-1F8D1C85D964",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 10,
     "width": 50,
     "x": 1932,
-    "y": 1177
+    "y": 2362
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -52,7 +52,7 @@
       "id": "8F45B017-0452-48D1-A7BF-7AE114266EA7"
     }
   ],
-  "name": "Connectors / Sad / Horizontal arrow left",
+  "name": "Connectors / Sad / Horizontal arrow left ←",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2911,
+  "changeIdentifier": 2931,
   "do_objectID": "F00D69E4-847C-4C74-AAB4-EBD08A09D80C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 76,
     "width": 296,
     "x": 420,
-    "y": 0
+    "y": 176
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -56,7 +56,7 @@
       "id": "28C71528-EE37-4A6A-97DF-D4299225F4D9"
     }
   ],
-  "name": "Connectors / Default / Diagonal horizontal arrows",
+  "name": "Connectors / Default / Diagonal horizontal arrows └┐",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -37,7 +37,7 @@
   "resizingConstraint": 36,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

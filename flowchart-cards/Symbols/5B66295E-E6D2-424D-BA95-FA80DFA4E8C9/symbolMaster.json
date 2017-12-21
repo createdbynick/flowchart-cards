@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3181,
+  "changeIdentifier": 3196,
   "do_objectID": "5B66295E-E6D2-424D-BA95-FA80DFA4E8C9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 38,
     "width": 306,
     "x": 926,
-    "y": 354
+    "y": 708
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -52,7 +52,7 @@
       "id": "13BA9132-60F8-49B3-A5DB-449733C9AAB7"
     }
   ],
-  "name": "Connectors / Happy / Elbow arrow",
+  "name": "Connectors / Happy / Elbow arrow ─┐",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

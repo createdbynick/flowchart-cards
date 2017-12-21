@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1033,
+  "changeIdentifier": 1048,
   "do_objectID": "D8824D18-B7B3-48E7-AAE5-A68189DDC08C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 39,
     "width": 305,
     "x": 420,
-    "y": 492
+    "y": 1260
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -52,7 +52,7 @@
       "id": "03BB257E-1FDA-4ACE-831B-FD5C44361DA2"
     }
   ],
-  "name": "Connectors / Default / Elbow circle",
+  "name": "Connectors / Default / Elbow circle ─┐",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

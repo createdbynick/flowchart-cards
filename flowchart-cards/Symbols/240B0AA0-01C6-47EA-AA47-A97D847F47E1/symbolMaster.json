@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3167,
+  "changeIdentifier": 3179,
   "do_objectID": "240B0AA0-01C6-47EA-AA47-A97D847F47E1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 38,
     "width": 306,
     "x": 420,
-    "y": 354
+    "y": 708
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -52,7 +52,7 @@
       "id": "CCDCCBD8-098F-48D2-A4D1-C094AF8882DF"
     }
   ],
-  "name": "Connectors / Default / Elbow arrow",
+  "name": "Connectors / Default / Elbow arrow ─┐",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

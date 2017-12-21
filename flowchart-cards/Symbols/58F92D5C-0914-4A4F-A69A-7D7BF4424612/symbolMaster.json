@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 357,
+  "changeIdentifier": 380,
   "do_objectID": "58F92D5C-0914-4A4F-A69A-7D7BF4424612",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 10,
     "width": 50,
     "x": 926,
-    "y": 1177
+    "y": 2362
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -52,7 +52,7 @@
       "id": "6B6E1A01-0487-4A29-BD50-B892C24769EE"
     }
   ],
-  "name": "Connectors / Happy / Horizontal arrow left",
+  "name": "Connectors / Happy / Horizontal arrow left ←",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

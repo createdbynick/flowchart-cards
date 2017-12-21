@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1670,
+  "changeIdentifier": 1686,
   "do_objectID": "9E452920-7B80-4E60-A002-4BA0BDD5A6F5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 78,
     "width": 295,
     "x": 926,
-    "y": 176
+    "y": 530
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -56,8 +56,8 @@
       "id": "816F9CBC-D073-4F48-9AE4-6189FB18FA04"
     }
   ],
-  "name": "Connectors / Happy / Diagonal horizontal circles",
-  "nameIsFixed": false,
+  "name": "Connectors / Happy / Diagonal horizontal circles └┐",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

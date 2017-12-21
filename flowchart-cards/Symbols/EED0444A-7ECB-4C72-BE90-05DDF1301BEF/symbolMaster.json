@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1009,
+  "changeIdentifier": 1039,
   "do_objectID": "EED0444A-7ECB-4C72-BE90-05DDF1301BEF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 39,
+    "height": 38,
     "width": 302,
     "x": 420,
-    "y": 1397
+    "y": 2582
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -56,9 +56,9 @@
       "id": "7638A2CB-E48D-489A-9E2D-2EFB4891A283"
     }
   ],
-  "name": "Connectors / Default / Horizontal bottom arrows",
+  "name": "Connectors / Default / Horizontal bottom arrows ┌─┐",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1022,
+  "changeIdentifier": 1036,
   "do_objectID": "F95403ED-57A8-4581-9506-4984A5BE78FB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 39,
     "width": 305,
     "x": 1932,
-    "y": 492
+    "y": 1260
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -52,7 +52,7 @@
       "id": "9D522A47-C019-407C-96FA-EEC127618B10"
     }
   ],
-  "name": "Connectors / Sad / Elbow circle",
+  "name": "Connectors / Sad / Elbow circle ─┐",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

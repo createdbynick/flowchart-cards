@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 273,
+  "changeIdentifier": 287,
   "do_objectID": "C49DF217-0A8B-4899-909D-454DC0719F37",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 78,
     "width": 295,
     "x": 1932,
-    "y": 176
+    "y": 530
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -56,8 +56,8 @@
       "id": "08A71FFB-6A59-43EF-96B1-973699DA3FF5"
     }
   ],
-  "name": "Connectors / Sad / Diagonal horizontal circles",
-  "nameIsFixed": false,
+  "name": "Connectors / Sad / Diagonal horizontal circles└┐",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

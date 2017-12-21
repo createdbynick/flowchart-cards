@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1479,
+  "changeIdentifier": 1513,
   "do_objectID": "C3F9F5E1-D741-431B-A663-FAB1546C414D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 39,
     "width": 302,
     "x": 926,
-    "y": 1397
+    "y": 2582
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -56,9 +56,9 @@
       "id": "AAB00228-A506-43C4-951A-68F9BF4D8377"
     }
   ],
-  "name": "Connectors / Happy / Horizontal bottom arrows",
+  "name": "Connectors / Happy / Horizontal bottom arrows┌─┐",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

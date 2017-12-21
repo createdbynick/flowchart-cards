@@ -16,7 +16,7 @@
     "height": 8,
     "width": 12,
     "x": 290.1548387096774,
-    "y": 31
+    "y": 30
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -34,10 +34,10 @@
   ],
   "overrides": {
   },
-  "resizingConstraint": 45,
+  "resizingConstraint": 36,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
