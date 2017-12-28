@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 9,
   "do_objectID": "0A2AD4D9-1598-446D-9261-13373D196FBA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 222,
+    "height": 220,
     "width": 220,
     "x": 2858,
     "y": 0
@@ -41,11 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "D354538B-931C-4EE1-9A86-9FB8E5D18B9D"
+    },
+    {
+      "class": "text",
+      "id": "B824793D-273B-4EF3-B338-C8BED622D695"
     }
   ],
   "name": "Pages / Article 1",

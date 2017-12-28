@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 222,
+    "height": 200,
     "width": 220,
     "x": 0,
     "y": 0
@@ -23,15 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "0073137D-723B-4553-B739-BF54E83992C9"
-    },
-    {
-      "class": "text",
-      "id": "35582CA7-A6FC-486E-BAB6-45D6B102496D"
     }
   ],
   "name": "Pages / Article 2",

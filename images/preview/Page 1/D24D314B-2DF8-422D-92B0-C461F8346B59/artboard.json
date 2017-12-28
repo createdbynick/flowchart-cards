@@ -34,8 +34,8 @@
     "x": -237,
     "y": -1
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
