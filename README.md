@@ -19,3 +19,7 @@ Flowchart Cards comes with 39 cards representing a variety of layouts, component
 - More layouts, components and pages
 - Templates for easier composition and printing
 - More connector types
+
+## Feedback & Suggestions
+
+Together, we can make Flowchart Cards even better! Please get in touch with your feedback and suggestions. Email: me@createdbynick.com or find me on Twitter @createdbynick
