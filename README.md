@@ -22,4 +22,6 @@ Flowchart Cards comes with 39 cards representing a variety of layouts, component
 
 ## Feedback & Suggestions
 
-Together, we can make Flowchart Cards even better! Please get in touch with your feedback and suggestions. Email: me@createdbynick.com or find me on Twitter @createdbynick
+Together, we can make Flowchart Cards even better! Please get in touch with your feedback and suggestions.
+
+Email: me@createdbynick.com or find me on Twitter [@createdbynick](https://twitter.com/createdbynick)
