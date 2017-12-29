@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21,
-  "do_objectID": "F797BE78-177B-47BC-9F65-791AFD71AC65",
+  "changeIdentifier": 13,
+  "do_objectID": "C34D5A14-8A73-4D64-8211-DAE6CF07C4E6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
     "height": 220,
     "width": 220,
     "x": 0,
-    "y": 1600
+    "y": 640
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,15 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "64D28763-A2A2-46A9-8B5C-D98E0E9D0F5F"
+      "id": "EC6C7D19-0C36-4165-92C8-B96308B3D465"
+    },
+    {
+      "class": "text",
+      "id": "F3376A53-BED7-4232-9A30-86ED210E3381"
     }
   ],
-  "name": "Components / Search Suggestions",
-  "nameIsFixed": true,
+  "name": "Components / Dropdown",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -61,7 +65,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "ED8ABFB6-EA9F-4359-BFFB-42AF2B6A6B57",
+  "symbolID": "560112B2-76C6-4192-825B-ADF83BD38FC2",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
