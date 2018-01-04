@@ -10,7 +10,7 @@ Flowchart Cards comes with 39 cards representing a variety of layouts, component
 
 ## Features
 
-- 39 cards
+- 44 cards
 - 14 connector types across 4 styles
 - Organised shared styles and text styles
 
