@@ -1,0 +1,129 @@
+{
+  "_class": "group",
+  "do_objectID": "2BF5554A-FA30-460A-BDF3-244AA4270977",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 220,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F5E03C52-8EDF-43E5-88E0-9BFECC3E24BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27626247-9C9B-408D-9144-2699B4440E7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D4292B3E-F051-4267-91B4-BB881BE7C3A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "116DAC0A-4B8F-4FAA-9F2F-8FBDBF50ABC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FACAD74A-B2F3-4EB0-BF15-0E3639D255FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B06E38F2-7FC1-463E-8D9B-D681D55995D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FB09E13-4CB2-459A-9392-DADEA28C7A2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "041040A3-E557-419F-92CD-3D621F5E18C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3CCA556A-F963-479D-82ED-AE92ECA43CCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "252ADE13-452F-40E0-9376-E5D36B174162"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F3C75AD-09A4-4C49-9FBC-60A1F5AF9962"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5F080D0-C995-462E-8765-B857FAC394FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9BBDDE62-84DE-4062-9C99-CE8BA8842CC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D841B6DE-6DCC-4AE5-B1B0-BFECD7EF2892"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4C25E1E-E318-47AE-ADF1-A9962D39623C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CB0B5C4-D4CC-4CED-9203-05EA4337C430"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9964F50-E64D-4FE2-9BA4-46ADF7FC8409"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62281306-0F8D-4994-8582-277F086144A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1743D21D-09EF-4C10-9C5E-1415F4270D85"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC0FE5EC-9B32-472A-9675-A227B01A8295"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72D29EE7-95FB-4332-B043-14C20371D5F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "267A4350-B9C7-490F-968E-AA776DA06DCE"
+    }
+  ],
+  "name": "Pages / Calendar Week",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

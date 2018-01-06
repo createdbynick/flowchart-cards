@@ -35,7 +35,7 @@
     "y": -1
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -62,10 +62,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7CCD575A-0ABA-4A90-8368-1010D4473ACB"
-    },
-    {
-      "class": "symbolInstance",
       "id": "5B00434E-C2EB-4E63-81FF-A8CE49AE54CD"
     },
     {
@@ -83,6 +79,10 @@
     {
       "class": "group",
       "id": "90FAD18B-A526-4E14-ADBF-E5894C8DC676"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E3C8137-3AF3-4F6B-B575-642FF28FFA98"
     }
   ],
   "name": "Artboard",
