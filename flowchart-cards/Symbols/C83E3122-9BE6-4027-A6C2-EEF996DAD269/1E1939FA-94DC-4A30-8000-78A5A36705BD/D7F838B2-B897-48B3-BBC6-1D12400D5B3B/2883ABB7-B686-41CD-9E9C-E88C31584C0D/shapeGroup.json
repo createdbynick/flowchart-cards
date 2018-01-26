@@ -34,7 +34,7 @@
   ],
   "name": "Oval",
   "nameIsFixed": true,
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -4,6 +4,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -16,7 +25,7 @@
     "height": 223,
     "width": 220,
     "x": 930,
-    "y": 2585
+    "y": 2588
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,

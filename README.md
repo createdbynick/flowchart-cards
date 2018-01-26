@@ -26,5 +26,4 @@ Flowchart Cards come with 44 cards. Each one meticulously crafted with just enou
 ## Feedback & Suggestions
 
 Together, we can make Flowchart Cards even better! Please get in touch with your feedback and suggestions.
-
 Email: me@createdbynick.com or find me on Twitter [@createdbynick](https://twitter.com/createdbynick)
