@@ -13,6 +13,7 @@ Flowchart Cards comes with 44 cards representing a variety of layouts, component
 - 44 cards
 - 14 connector types across 4 styles
 - Organised shared styles and text styles
+- Each card exported as a .png with/without labels
 
 ## Carefully Crafted
 Flowchart Cards come with 44 cards. Each one meticulously crafted with just enough detail to get your flow across without encouraging too much conversation around the layout/design.
@@ -26,4 +27,5 @@ Flowchart Cards come with 44 cards. Each one meticulously crafted with just enou
 ## Feedback & Suggestions
 
 Together, we can make Flowchart Cards even better! Please get in touch with your feedback and suggestions.
+<br/><br/>
 Email: me@createdbynick.com or find me on Twitter [@createdbynick](https://twitter.com/createdbynick)
