@@ -6,17 +6,17 @@ Depict the flow of movement for your next web app using Flowchart Cards.
 
 Flowchart Cards, built in Sketch, utilises Symbols to help build complex UX flows in a jiffy.
 
-Flowchart Cards comes with 44 cards representing a variety of layouts, components, pages and verification states. The movement between cards can be demonstrated with connectors of which their are currently 14 across 4 styles.
+Flowchart Cards comes with 45 cards representing a variety of layouts, components, pages and verification states. The movement between cards can be demonstrated with connectors of which their are currently 14 across 4 styles.
 
 ## Features
 
-- 44 cards
+- 45 cards
 - 14 connector types across 4 styles
 - Organised shared styles and text styles
 - Each card exported as a .png with/without labels
 
 ## Carefully Crafted
-Flowchart Cards come with 44 cards. Each one meticulously crafted with just enough detail to get your flow across without encouraging too much conversation around the layout/design.
+Flowchart Cards come with 45 cards. Each one meticulously crafted with just enough detail to get your flow across without encouraging too much conversation around the layout/design.
 
 ## What's in the pipeline?
 
