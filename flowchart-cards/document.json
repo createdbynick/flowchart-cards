@@ -16,9 +16,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "5DA57813-2180-4A99-9BCB-6A7DD1E9B27E",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -26,9 +28,9 @@
     ]
   },
   "meta": {
-    "appVersion": "48.1",
-    "build": 47250,
-    "version": 97
+    "appVersion": "52.6",
+    "build": 67491,
+    "version": 112
   },
   "pages": [
     "Cards",

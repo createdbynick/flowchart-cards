@@ -1,12 +1,114 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGoqNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKgcIERIYIyQlJjIzNDU2Nzg5P0NLTE1OT1JWYGNmaXN0dYGEjI2Ok5aanlUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAJ4ADgClfELhUb2dldGhlciwgd2UgY2FuIG1ha2UgRmxvd2NoYXJ0IENhcmRzIGV2ZW4gYmV0dGVyISAKUGxlYXNlIGdldCBpbiB0b3VjaCB3aXRoIHlvdXIgZmVlZGJhY2sgYW5kIHN1Z2dlc3Rpb25zLiBTZW5kIGFuIGVtYWlsIHRvIG1lQGNyZWF0ZWRieW5pY2suY29tIG9yIGZvbGxvdyBtZSBvbiBUd2l0dGVyIEBjcmVhdGVkYnluaWNr0hMMFBdaTlMub2JqZWN0c6IVFoAEgB2AJtMZEwwaHiJXTlMua2V5c6MbHB2ABYAGgAejHyAhgAiAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMZEwwnLCKkKCkqK4AJgAqAC4AMpC0uLjCADYAOgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/o2NjY2NjZIz/wAAAAAAAAIz/s3Nzc3Nzd0jo7PD1aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiPD5YTlNPYmplY3TSDEBBQl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMZEwxER0qiRUaAE4AUokhJgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABfEBRIZWx2ZXRpY2FOZXVlLU1lZGl1bdI6O1BRXxATTlNNdXRhYmxlRGljdGlvbmFyeaNQPD7SOjtTVF8QEE5TRm9udERlc2NyaXB0b3KiVT5fEBBOU0ZvbnREZXNjcmlwdG9y1VcMWFlaW1xdXl1aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgACAHIAaEAGAGtITDGFioIAb0jo7ZGVXTlNBcnJheaJkPtI6O2doXxAQTlNQYXJhZ3JhcGhTdHlsZaJnPtMZEwxqbiKja2wdgB6AH4AHo29wcYAggCGAJYAQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMZEwx2eyKkKCkqK4AJgAqAC4AMpC4uLi6ADoAOgA6ADoAQ0gxAQYOAGIAi0xkTDIWISqKGh4AjgCSiSEmAFYAWgBdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZdVXDFhZWltcXV5dgACAHIAagBrSOjuUlV5OU011dGFibGVBcnJheaOUZD7SlwyYmVdOUy5kYXRhSH0AFAEZAA4BgCjSOjubnF1OU011dGFibGVEYXRho5udPlZOU0RhdGHSOjufoF8QEk5TQXR0cmlidXRlZFN0cmluZ6KhPl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGkpVRyb290gAEACAARABoAIwAtADIANwBkAGoAcwB8AI4AmwCiAKQApgCoAKoBZQFqAXUBeAF6AXwBfgGFAY0BkQGTAZUBlwGbAZ0BnwGhAaMB0AHyAgUCDAIRAhMCFQIXAhkCHgIgAiICJAImAigCLAIyAjcCPQJGAk8CWAJdAmgCcQJ+AoECigKPAqwCrgKwArcCugK8Ar4CwQLDAsUCxwLdAvMC/AMTAxgDLgMyAzcDSgNNA2ADawN2A4MDpQOxA7MDtQO3A7kDuwPAA8EDwwPIA9AD0wPYA+sD7gP1A/kD+wP9A/8EAwQFBAcECQQLBDgEWgRhBGYEaARqBGwEbgRzBHUEdwR5BHsEfQSCBIQEhgSNBJAEkgSUBJcEmQSbBJ0EswTJBNQE1gTYBNoE3AThBPAE9AT5BQEFCgUMBREFHwUjBSoFLwVEBUcFXAVuBXEFdgAAAAAAAAIBAAAAAAAAAKYAAAAAAAAAAAAAAAAAAAV4"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 0.9019607843137255,
+            "red": 0.7764705882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Medium",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 125,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Medium",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 20,
+        "location": 125
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 0.9019607843137255,
+            "red": 0.7764705882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Medium",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 25,
+        "location": 145
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Medium",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 14,
+        "location": 170
+      }
+    ],
+    "string": "Together, we can make Flowchart Cards even better! \nPlease get in touch with your feedback and suggestions. Send an email to me@createdbynick.com or follow me on Twitter @createdbynick"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1DE2543B-41FE-4FAE-90A6-C88FB40FB239",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +129,8 @@
     "y": 35
   },
   "glyphBounds": "{{0, 5}, {1278, 44}}",
-  "heightIsClipped": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,27 +145,34 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 1,
           "green": 0.9019607843137255,
           "red": 0.7764705882352941
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF8QFEhlbHZldGljYU5ldWUtTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOoA7wD6AQMBGQEdASoBMwE4AUsBTgFhAXMBdgF7AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAX0="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Medium",
+            "size": 20
+          }
         },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGICFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBEQWk5TVGFiU3RvcHNWJGNsYXNzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAAIAEgAIQAYAC0hQKFRZaTlMub2JqZWN0c6CAA9IYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIaHFhOU09iamVjdNIYGR4fXxAQTlNQYXJhZ3JhcGhTdHlsZaIeHF8QD05TS2V5ZWRBcmNoaXZlctEiI1Ryb290gAEACAARABoAIwAtADIANwA9AEMATgBZAGAAbQCPAJsAnQCfAKEAowClAKoAtQC2ALgAvQDIANEA2QDcAOUA6gD9AQABEgEVARoAAAAAAAACAQAAAAAAAAAkAAAAAAAAAAAAAAAAAAABHA=="
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

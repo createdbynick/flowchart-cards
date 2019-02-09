@@ -1,5 +1,7 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E2CA8262-2C66-4DB2-BF29-BD1CBEF3B91F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,22 +20,18 @@
     "x": 6,
     "y": 8
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": true,
   "isFlippedVertical": true,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Connectors / Paths / Sad / Elbow",
   "nameIsFixed": true,
   "overrideValues": [
   ],
-  "overrides": {
-  },
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
@@ -41,9 +39,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "A78962DA-CA7D-41BD-8055-9C6FC65C53C7",
   "verticalSpacing": 0
