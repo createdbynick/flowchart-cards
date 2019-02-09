@@ -18,6 +18,8 @@ Flowchart Cards comes with 45 cards representing a variety of layouts, component
 ## Carefully Crafted
 Flowchart Cards come with 45 cards. Each one meticulously crafted with just enough detail to get your flow across without encouraging too much conversation around the layout/design.
 
+![Flowchart Cards screenshot in Sketch](images/screenshot.png)
+
 ## What's in the pipeline?
 
 - More layouts, components and pages
