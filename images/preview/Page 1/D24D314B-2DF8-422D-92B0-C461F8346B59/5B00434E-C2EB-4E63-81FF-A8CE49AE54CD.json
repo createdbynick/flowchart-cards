@@ -1,5 +1,7 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "5B00434E-C2EB-4E63-81FF-A8CE49AE54CD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,16 +20,14 @@
     "x": 620,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 3,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Verification / Error",
   "nameIsFixed": false,
   "overrideValues": [
@@ -38,9 +38,6 @@
       "value": " "
     }
   ],
-  "overrides": {
-    "DDE3C7B6-AE54-4F79-A9EB-7FAE853EE323": " "
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,9 +45,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "21BE8E75-6564-4728-848F-F057DFC0D114",
   "verticalSpacing": 0

@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "933C077D-53E9-4E46-85C0-E729EB65CDF0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,6 +21,8 @@
     "y": 97
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,55 +30,55 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "DB273F53-D707-42D0-A10E-EC0298C70CA5"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "52327CD8-E9A4-48B4-A0B5-D3C9EBF6EBF4"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "94413497-DB47-46C9-833C-57E58F8035F6"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "01906404-CC76-4FD3-AAE8-BF685CA49203"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8732F88C-B022-4B04-8D43-2E2881AF5A97"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "A35C2A3A-8673-4FD3-BC3D-A2F33D27EA57"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "53CC0129-2743-4765-88BB-C5EB89FB56C7"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "C6FCD896-6770-461D-BD9E-432E4E172220"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "36FAA93D-D84F-4BDC-B29C-83C5C258B405"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "1C3821DA-40DB-4A56-BD31-560C746BDEB7"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8B1D7A13-3705-4750-B016-63894CD0CD91"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "F012F35E-B405-4651-8E4C-7CB6369AB8D1"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "D0D99B62-A9F4-48BB-9FB4-3E4BABC9F5B6"
     }
   ],
@@ -86,8 +90,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

@@ -3,10 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.8588235294117647,
-    "green": 0.5058823529411764,
-    "red": 0.003921568627450933
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E3D66A64-8E8E-48D5-A01A-31FD3792B615",
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,7 +19,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -29,38 +31,87 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 830,
-    "width": 890,
+    "height": 840,
+    "width": 1200,
     "x": 753,
     "y": -11
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      40,
+      1160
     ]
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "12677A98-7697-44F8-A24F-F6D805C24F5A"
     },
     {
-      "class": "group",
-      "id": "C86BB412-85E4-44B8-851A-0236503639B0"
+      "class": "symbolInstance",
+      "id": "97452E02-C205-4B54-9158-7AFB0F24B6AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60565CE3-C7CB-4372-8E2E-420A1A8662A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "334342BF-6468-4ABB-88DD-9BB6DB4A0AA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADDFE637-76E4-4571-B86C-D096421A347E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BD9BDD8-1FF3-46F5-AD46-D45A2AFF61CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D311AB2F-ACB3-4878-8646-63F72D21BFB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78749D19-23FE-455C-9BD1-C116383ED749"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E076B7DC-13F5-4310-ADF9-5E93013124A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "050964DA-8E60-4AD8-85B5-743ADB3FD861"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "736D0F75-1DC1-4251-B7BC-0BC2F6128949"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "826EA2B7-2FD6-4C00-BA5B-8CC6ED15A749"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "317F54BA-93A9-43CF-B88B-261EE895F106"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "flowchart-cards-screenshot",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,7 +119,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -88,12 +139,14 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      40
     ]
   }
 }
